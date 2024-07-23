@@ -2,7 +2,7 @@
 
 - 🚀 I'm the Head of Product at nTn Dining Technologies
 - 🔥 I'm looking for a superstar Senior Software Engineer to help us transform the hospitality industry in Cambodia
-- 🌱 I'm a music producer, and produced music for the 2023 SEA Games.
+- 🌱 I'm a music producer, and produced music for the 2023 SEA Games, and 2023 ASEAN Para Games.
 
 <!--
 **amarinsam/amarinsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
