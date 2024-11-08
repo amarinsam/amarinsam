@@ -1,6 +1,6 @@
 ### Hi there 👋 Thanks for stopping by!
 
-- 🚀 I'm the Head of Product at nTn Dining Technologies
+- 🚀 I'm the founder of an app called Ahri.
 - 🌱 I'm a music producer, and produced music for the 2023 SEA Games, and 2023 ASEAN Para Games.
 
 <!--
