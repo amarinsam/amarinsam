@@ -2,6 +2,7 @@
 
 - 🚀 I'm the founder of an app called Ahri.
 - 🌱 I'm a music producer, and produced music for the 2023 SEA Games, and 2023 ASEAN Para Games.
+- 🍄 amrism.com
 
 <!--
 **amarinsam/amarinsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
