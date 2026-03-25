@@ -1,6 +1,6 @@
 ### Hi there 👋 Thanks for stopping by!
 
-- 🚀 I'm the CEO of a software consulting firm called Meksys.
+- 🚀 CEO @ Meksys.
 - 🌱 I'm a music producer, and produced music for the 2023 SEA Games, and 2023 ASEAN Para Games.
 - 🍄 Personal blog is at amrism.com
 
